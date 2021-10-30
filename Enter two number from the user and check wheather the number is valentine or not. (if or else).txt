@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int x,y,s,v:
+scanf("%d%d"&x,&Y);
+s=x+y;
+v=x^y;
+if (s==v)
+printf("the number is valentine");
+else
+printf("the number is not valentine");
+return 0;
+}
