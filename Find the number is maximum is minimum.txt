@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int x,y;
+scanf("%d%d",&x&y);
+if (X<y)
+printf("A is minimum");
+else
+printf("A is maximum");
+return 0;
+}
